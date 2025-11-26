@@ -1,0 +1,16 @@
+/* CSS to style the elements */
+img {
+    width: 300px;
+    display: block; /* Required to use margin auto for centering */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    margin-top: 20px;
+    text-align: center; /* Optional: makes the text look better centered under the image */
+}
+
+h2 {
+    text-align: center; /* Optional: centers the heading */
+}
